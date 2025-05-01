@@ -1,5 +1,5 @@
 # Django RESTful API
-
+ 
 Este repositório contém uma **API RESTful** construída com **Django 4.x** e **Django REST Framework**, fornecendo autenticação JWT, confirmação de e-mail, login via Google, CRUD de itens públicos/privados, documentação Swagger e endpoints para servir Termos de Uso e Política de Privacidade em PDF.
 
 Acesse: https://api-res-tful-hazel.vercel.app/
